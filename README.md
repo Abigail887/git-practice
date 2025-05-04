@@ -1,1 +1,1 @@
-This is my first git practice. This is intersting.e
+This is my first git practice. This is interesting.I am looking forward to practice more.
